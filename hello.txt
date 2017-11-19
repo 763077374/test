@@ -1,0 +1,212 @@
+    1  dir
+    2  ls
+    3  ls
+    4  wpd
+    5  pwd
+    6  pwd
+    7  sdfs
+    8  pwd
+    9  cd ..
+   10  ls
+   11  pwd
+   12  curl -L -o- [http://build.sankuai.com/nvm/install](http://build.sankuai.com/nvm/install) | bash
+   13  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash
+   14  npm
+   15  npm -v
+   16  npm install vue-cli -g
+   17  npm install vue-cli -g
+   18  pwd
+   19  ls
+   20  cd Documents/Code/gitLocal/vueDemo
+   21  cd Documents
+   22  pwd
+   23  ls
+   24  mkdir Code
+   25  cd Code
+   26  mkdir gitLocal/vueDemo
+   27  mkdir gitLocal
+   28  cd gitLocal
+   29  mkdir vueDemo
+   30  cd vueDemo
+   31  vue init webpack-simple projectName
+   32  npm install --global vue-cli
+   33  npm install --global vue-cli
+   34  sudo npm install --global vue-cli
+   35  vue init webpack-simple projectName
+   36  ls
+   37  cd prjectName
+   38  ls
+   39  cd projectName
+   40  ls
+   41  npm install
+   42  npm run dev
+   43  ls
+   44  npm run build
+   45  npm run dev
+   46  ls
+   47  cd src
+   48  ls
+   49  vim App.vue
+   50  ls
+   51  cd ..
+   52  ls
+   53  npm run dev
+   54  cd /
+   55  pwd
+   56  cd ..
+   57  ls
+   58  ls
+   59  vi /etc/profile
+   60  vi /etc/profile
+   61  shoo su
+   62  sudo
+   63  sudo su
+   64  ls
+   65  cd Library
+   66  ls
+   67  cd Java
+   68  ls
+   69  pwd
+   70  whereis java
+   71  cd ..
+   72  cd ..
+   73  pwd
+   74  cd ..
+   75  ls
+   76  cd usr
+   77  ls
+   78  ls
+   79  cd bin
+   80  ls
+   81  cd java
+   82  ls
+   83  java -v
+   84  java -version
+   85  cd ./
+   86  pwd
+   87  cd ..
+   88  cd ..
+   89  pwd
+   90  cd ..
+   91  pwd
+   92  ls
+   93  ls -l /usr/bin/java
+   94  cd /Library/Java/JavaVirtualMachines
+   95  ls
+   96  cd jdk-9.0.1.jdk
+   97  ls
+   98  ping baidu.com /t
+   99  ping baidu
+  100  ping baidu.com
+  101  node -v
+  102  npm install
+  103  node
+  104  node npm
+  105  node nvm install
+  106  curl
+  107  curl
+  108  c
+  109  curl -L -o- [http://build.sankuai.com/nvm/install](http://build.sankuai.com/nvm/install) | bash
+  110  arp -a
+  111  ipconfig /all
+  112  ipconfig
+  113  whereis java
+  114  ls -l /usr/bin/java
+  115  pwd
+  116  ls
+  117  cd ..
+  118  pwd
+  119  cd ..
+  120  pwd
+  121  cd ..
+  122  ls
+  123  shoo su
+  124  vi /etc/profile
+  125  clear
+  126  cls
+  127  history
+  128  history > a.txt
+  129  sudo history > a.txt
+  130  history | more
+  131  clear
+  132  pwd
+  133  history
+  134  eclipse
+  135  clear
+  136  uname -r
+  137  uname
+  138  uname -a
+  139  hostname
+  140  git --version
+  141  java -version
+  142  javac -version
+  143  which sublime
+  144  clear
+  145  clear
+  146  open hello.html
+  147  touch hello.html
+  148  cd ..
+  149  dir
+  150  cd 
+  151  ls
+  152  cd Desktop/
+  153  mkdir test
+  154  cd test
+  155  touch hello.htl
+  156  ren hello.htl hello.html
+  157  rm -rf hello.htl 
+  158  touch hello.html
+  159  open hello.html 
+  160  sh
+  161  open hello.html 
+  162  cd /Applications/
+  163  ls
+  164  dir
+  165  Chess.app/
+  166  dir
+  167  ls
+  168  clear
+  169  ls
+  170  exit
+  171  cd /Applications/
+  172  ls
+  173  ls Eclipse.app/
+  174  cd ..
+  175  ls
+  176  cd /Applications/
+  177  ls
+  178  ls Sublime\ Text.app/
+  179  ls
+  180  cd ..
+  181  vim ~/.bash_profile
+  alias subl = "/Application/Sublime\ Text/Content/ShareSupported/subls"
+  182  source ~/.bash_profile 
+  183  subl
+  184  subl ~/.bash_profile 
+  185  ls
+  186  cd 
+  187  cdls
+  188  ls
+  189  cd Desktop/
+  190  cd test
+  191  subl hllo.txt
+  192  cd /Applications/
+  193  ls
+  194  subl ~/.bash_profile
+  195  cd Sublime\ Text.app/
+  196  ls
+  197  cd Contents/
+  198  ls
+  199  cd bin
+  200  ls
+  201  cd SharedSupport/
+  202  ls
+  203  cd bin
+  204  ls
+  205  clear
+  206  cd 
+  207  ls
+  208  cd Desktop/
+  209  cd test/
+  210  ls
+  211  history>hello.txt
